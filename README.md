@@ -1,3 +1,7 @@
+# Projeto Diário
+
+Projeto de um diário e bloco de notas online com Dart
+
 # proj_diario
 
 A new Flutter project.
